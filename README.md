@@ -29,7 +29,7 @@
 
 ```bash
 git clone https://github.com/Aidarqwe/binary_classification.git
-cd predictive-maintenance-app
+cd binary_classification
 ```
 
 2. Установите зависимости:
@@ -60,4 +60,4 @@ cd predictive-maintenance-app
 
 ## Видео-демонстрация
 
-[**Ссылка на видео**](**video/demo.mp4**)
+[**Ссылка на видео**](**https://github.com/Aidarqwe/binary_classification/blob/main/video/demo.mp4**)
