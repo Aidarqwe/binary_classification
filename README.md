@@ -28,7 +28,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone <ссылка на ваш GitHub-репозиторий>
+git clone https://github.com/Aidarqwe/binary_classification.git
 cd predictive-maintenance-app
 ```
 
