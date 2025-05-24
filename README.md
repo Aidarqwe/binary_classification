@@ -60,4 +60,4 @@ cd binary_classification
 
 ## Видео-демонстрация
 
-[**Ссылка на видео**](**https://github.com/Aidarqwe/binary_classification/blob/main/video/demo.mp4**)
+[**Ссылка на видео**](https://github.com/Aidarqwe/binary_classification/blob/main/video/demo.mp4)
